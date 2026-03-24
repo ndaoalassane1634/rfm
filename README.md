@@ -92,15 +92,18 @@ cd ..
 | Clients Moyens | Autres |
 
 ### 4. Visualisations (`visualisation.ipynb`)
-- Histogrammes des distributions R, F, M
-![alt text](image-1.png)
-- Heatmap de la dépense moyenne par combinaison de scores R et F
-![alt text](image-2.png)
-- Diagramme en barres de la taille des segments
-![alt text](image-3.png)
-- Nuage de points Fréquence vs Monétaire coloré par Récence
-![alt text](image.png)
 
+- Histogrammes des distributions R, F, M
+![Histogrammes RFM](notebooks/figures/histogrammes_rfm.png)
+
+- Heatmap de la dépense moyenne par combinaison de scores R et F
+![Heatmap R et F](notebooks/figures/heatmap_R_F.png)
+
+- Diagramme en barres de la taille des segments
+![Segments](notebooks/figures/segments_barres.png)
+
+- Nuage de points Fréquence vs Monétaire coloré par Récence
+![Scatter F vs M](notebooks/figures/scatter_F_M_R.png)
 ---
 
 ## 📊 Résultats clés
