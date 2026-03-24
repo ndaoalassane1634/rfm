@@ -1,1 +1,3 @@
 .ipynb_checkpoints/\n*.xlsx\n*.csv\n*/__pycache__/
+uv.lock
+.ipynb_checkpoints/
